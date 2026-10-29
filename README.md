@@ -54,10 +54,4 @@ More folders and projects will be added as I progress.
 5. RAG Chatbot
 6. AI Agents and Automation
 
-## 📈 My Approach
-
-I believe in learning by building. I will document concepts, practise coding, and develop projects as I progress from Python fundamentals to practical Generative AI applications.
-
----
-
 **Learning step by step. Building one project at a time.**
